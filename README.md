@@ -1,2 +1,2 @@
 # rizz
-A little game about gaining rizz, much like real life :/
+A little game about gaining rizz by doing sigma things, much like real life :/
